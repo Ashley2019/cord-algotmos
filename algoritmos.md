@@ -32,6 +32,88 @@ y esta listo el plato de cereal
 
 
 
+INSTALAR PSEINT
+https://pseint.sourceforge.net/
 
+IMPRIMIR MI NOMBRE 
+
+Algoritmo MiNombre
+	imprimir "Ashley Nicol Sarche Garcia"
+FinAlgoritmo
+
+
+*** Ejecución Iniciada. ***
+Ashley Nicol Sarche Garcia
+*** Ejecución Finalizada. ***
+
+IMPRIMIR MI NOMBRE Y EDAD
+
+Algoritmo MiNombre
+	imprimir "Ashley Nicol Sarche Garcia"
+	imprimir "24 años"
+FinAlgoritmo
+
+*** Ejecución Iniciada. ***
+Ashley Nicol Sarche Garcia
+24 años
+*** Ejecución Finalizada. ***
+
+MOD 
+
+Algoritmo sin_titulo
+	leer X
+	imprimir X % 1
+
+*** Ejecución Iniciada. ***
+> 5
+0
+*** Ejecución Finalizada. ***
+
+
+Algoritmo sin_titulo
+	leer X
+	imprimir X % 2
+FinAlgoritmo
+
+*** Ejecución Iniciada. ***
+> 5
+1
+*** Ejecución Finalizada. ***
+
+
+Algoritmo sin_titulo
+	leer X
+	imprimir X % 3
+FinAlgoritmo
+
+*** Ejecución Iniciada. ***
+> 5
+2
+*** Ejecución Finalizada. ***
+
+
+Algoritmo sin_titulo
+	leer X
+	imprimir X % 4
+FinAlgoritmo
+
+*** Ejecución Iniciada. ***
+> 5
+1
+*** Ejecución Finalizada. ***
+
+
+Algoritmo sin_titulo
+	leer X
+	imprimir X % 5
+FinAlgoritmo
+
+*** Ejecución Iniciada. ***
+> 5
+0
+*** Ejecución Finalizada. ***
+
+
+FORMULARIO DE RIESGO 
 
 
