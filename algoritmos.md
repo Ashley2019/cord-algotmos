@@ -116,4 +116,91 @@ FinAlgoritmo
 
 FORMULARIO DE RIESGO 
 
+Algoritmo formulario
+	imprimir "nombre"
+	leer nombre
+	imprimir "apellido"
+	leer apellido
+	imprimir "edad"
+	leer edad
+	imprimir "gmail"
+	leer gmail
+	imprimir "direccion"
+	leer direccion 
+	
+	imprimir "formulario"
+	imprimir nombre + apellodo
+	imprimir edad
+	imprimir gmail
+	imprimir direccion
+FinAlgoritmo
+
+
+*** Ejecución Iniciada. ***
+nombre
+> Aylín
+apellido
+> Sarche
+edad
+> 3
+gmail
+> aylinsarche@gmail.com
+direccion
+> 9av.A 14-55 zona 7
+formulario
+Aylín
+3
+aylinsarche@gmail.com
+9av.A 14-55 zona 7
+*** Ejecución Finalizada. ***
+
+
+TABLAS DE VERDAD
+
+V & V = V  ✅ 
+V & F = F  ✅
+F & V = V  ❌
+F & F = F  ✅
+V | V = V  ✅
+V | F = F  ✅ 
+F | V = V  ✅ 
+F | F = F  ✅ 
+~V = V ❌
+~F = V  ✅ 
+(V & F) | (~F) = V  ✅
+(V | F ) & (F | F) = V ❌
+~((V | F ) & (F | F)) & F = V ❌
+~((V | F ) & (F | F)) & V = F ❌
+
+RESULTADOS BOOLEANOS
+
+* a <- 5 == 3  la variable es falsa 
+por que 4 no es igual a 3
+* b <- 4 <> 3 la variable es verdadera
+por que 4 es diferente a 3
+* c <- 7 > 7  la variable es falsa 
+por que 7 no es mayor que 7
+* d <- 4 < 4 la variable es falsa 
+por que 4 no es menor que 4
+* e <- 100 <= 90 la variable es falsa 
+por que 100 no es menor ni igual a 90
+* f <- 40 >= 40 la variable es verdadera 
+por que 40 no es mayor pero si es igual a 40
+
+
+IDENTIFICAR NUMEROS PARES E IMPARES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
